@@ -6,7 +6,7 @@ This project contains a Python script (`DCDP.py`) that cleans and preprocesses a
 
 ## 📂 Files Included
 - DCDP.py – Python script for cleaning the sales data.
-- Salesdata.csv – Original raw dataset (not included here).
+- Salesdata.csv – Original raw datase.
 ---
 ## 📋 What the Script Does
 ### 1. Load the Data
